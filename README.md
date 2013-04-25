@@ -45,6 +45,7 @@ E-mail ： shiren1118@126.com <br>
 - ios上类似rails的目录 https://github.com/i5ting/ios-rails_dir_init
 - jquery插件  https://github.com/i5ting/i5ting-jquery-tab
 - ruby写的用于生成TemplateInfo.plist的gem https://github.com/i5ting/TemplateInfo.plist
+- 基于xcode4模版写的目标 https://github.com/i5ting/Beeframework_template_installer
 
 ### 未公开的文档：
 
